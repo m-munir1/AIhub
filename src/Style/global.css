@@ -1,0 +1,19 @@
+
+.PricingCard Button{
+	background-color: white !important;
+	color: #B51B8D !important;
+	border: 1px solid #B51B8D;
+	border-radius: 50px;
+	padding: 12px 40px;
+}
+
+
+@media (max-width: 768px) {
+	.heroHeading {
+	  font-size: 22px !important;
+	}
+	.heroText{
+		font-size: 18px !important;
+	}
+  }
+  
